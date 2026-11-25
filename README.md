@@ -76,4 +76,4 @@ Organize your GitHub repository with clear folders so recruiters can browse your
 ## Certifications & Education
 
 - **Google Cybersecurity Certificate** — In Progress
-  - *Foundations of Cybersecurity* (Completed Nov 25, 2026) — [Certificate PDF](certificates/Coursera%200TSGHV5OPC4L.pdf) · [Verify Credential](https://coursera.org/verify/0TSGHV5OPC4L)
+  - *Foundations of Cybersecurity* (Completed Nov 25, 2026) — [Certificate PDF](Coursera%200TSGHV5OPC4L.pdf) · [Verify Credential](https://coursera.org/verify/0TSGHV5OPC4L)
